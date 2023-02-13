@@ -1,0 +1,6 @@
+C:\Users\liamp\CSharp\CSharp-Learning\PreOrderTracker\PreOrderTracker\TrackerLibrary\bin\Debug\TrackerLibrary.dll
+C:\Users\liamp\CSharp\CSharp-Learning\PreOrderTracker\PreOrderTracker\TrackerLibrary\bin\Debug\TrackerLibrary.pdb
+C:\Users\liamp\CSharp\CSharp-Learning\PreOrderTracker\PreOrderTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.AssemblyReference.cache
+C:\Users\liamp\CSharp\CSharp-Learning\PreOrderTracker\PreOrderTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\liamp\CSharp\CSharp-Learning\PreOrderTracker\PreOrderTracker\TrackerLibrary\obj\Debug\TrackerLibrary.dll
+C:\Users\liamp\CSharp\CSharp-Learning\PreOrderTracker\PreOrderTracker\TrackerLibrary\obj\Debug\TrackerLibrary.pdb
