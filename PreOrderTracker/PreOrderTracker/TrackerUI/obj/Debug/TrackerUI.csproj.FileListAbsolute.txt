@@ -1,0 +1,10 @@
+C:\Users\liamp\CSharp\CSharp-Learning\PreOrderTracker\PreOrderTracker\TrackerUI\bin\Debug\TrackerUI.exe.config
+C:\Users\liamp\CSharp\CSharp-Learning\PreOrderTracker\PreOrderTracker\TrackerUI\bin\Debug\TrackerUI.exe
+C:\Users\liamp\CSharp\CSharp-Learning\PreOrderTracker\PreOrderTracker\TrackerUI\bin\Debug\TrackerUI.pdb
+C:\Users\liamp\CSharp\CSharp-Learning\PreOrderTracker\PreOrderTracker\TrackerUI\obj\Debug\TrackerUI.csproj.AssemblyReference.cache
+C:\Users\liamp\CSharp\CSharp-Learning\PreOrderTracker\PreOrderTracker\TrackerUI\obj\Debug\TrackerUI.Form1.resources
+C:\Users\liamp\CSharp\CSharp-Learning\PreOrderTracker\PreOrderTracker\TrackerUI\obj\Debug\TrackerUI.Properties.Resources.resources
+C:\Users\liamp\CSharp\CSharp-Learning\PreOrderTracker\PreOrderTracker\TrackerUI\obj\Debug\TrackerUI.csproj.GenerateResource.cache
+C:\Users\liamp\CSharp\CSharp-Learning\PreOrderTracker\PreOrderTracker\TrackerUI\obj\Debug\TrackerUI.csproj.CoreCompileInputs.cache
+C:\Users\liamp\CSharp\CSharp-Learning\PreOrderTracker\PreOrderTracker\TrackerUI\obj\Debug\TrackerUI.exe
+C:\Users\liamp\CSharp\CSharp-Learning\PreOrderTracker\PreOrderTracker\TrackerUI\obj\Debug\TrackerUI.pdb
