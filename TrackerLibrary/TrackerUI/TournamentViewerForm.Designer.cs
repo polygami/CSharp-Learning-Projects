@@ -30,7 +30,7 @@ namespace TrackerUI
         private void InitializeComponent()
         {
             this.headerLabel = new System.Windows.Forms.Label();
-            this.tournamentName = new System.Windows.Forms.Label();
+            this.tournamentNameLabel = new System.Windows.Forms.Label();
             this.roundLabel = new System.Windows.Forms.Label();
             this.roundDropdown = new System.Windows.Forms.ComboBox();
             this.unplayedOnlyCheckBox = new System.Windows.Forms.CheckBox();
@@ -58,17 +58,17 @@ namespace TrackerUI
             this.headerLabel.Text = "Tournament:";
             this.headerLabel.Click += new System.EventHandler(this.label1_Click);
             // 
-            // tournamentName
+            // tournamentNameLabel
             // 
-            this.tournamentName.AutoSize = true;
-            this.tournamentName.BackColor = System.Drawing.Color.Transparent;
-            this.tournamentName.Font = new System.Drawing.Font("Segoe UI", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tournamentName.ForeColor = System.Drawing.Color.White;
-            this.tournamentName.Location = new System.Drawing.Point(353, 56);
-            this.tournamentName.Name = "tournamentName";
-            this.tournamentName.Size = new System.Drawing.Size(211, 65);
-            this.tournamentName.TabIndex = 1;
-            this.tournamentName.Text = "<name>";
+            this.tournamentNameLabel.AutoSize = true;
+            this.tournamentNameLabel.BackColor = System.Drawing.Color.Transparent;
+            this.tournamentNameLabel.Font = new System.Drawing.Font("Segoe UI", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tournamentNameLabel.ForeColor = System.Drawing.Color.White;
+            this.tournamentNameLabel.Location = new System.Drawing.Point(353, 56);
+            this.tournamentNameLabel.Name = "tournamentNameLabel";
+            this.tournamentNameLabel.Size = new System.Drawing.Size(211, 65);
+            this.tournamentNameLabel.TabIndex = 1;
+            this.tournamentNameLabel.Text = "<name>";
             // 
             // roundLabel
             // 
@@ -216,7 +216,7 @@ namespace TrackerUI
             this.Controls.Add(this.unplayedOnlyCheckBox);
             this.Controls.Add(this.roundDropdown);
             this.Controls.Add(this.roundLabel);
-            this.Controls.Add(this.tournamentName);
+            this.Controls.Add(this.tournamentNameLabel);
             this.Controls.Add(this.headerLabel);
             this.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Margin = new System.Windows.Forms.Padding(6);
@@ -230,7 +230,7 @@ namespace TrackerUI
         #endregion
 
         private System.Windows.Forms.Label headerLabel;
-        private System.Windows.Forms.Label tournamentName;
+        private System.Windows.Forms.Label tournamentNameLabel;
         private System.Windows.Forms.Label roundLabel;
         private System.Windows.Forms.ComboBox roundDropdown;
         private System.Windows.Forms.CheckBox unplayedOnlyCheckBox;
